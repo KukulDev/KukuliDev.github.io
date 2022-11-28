@@ -1,0 +1,26 @@
+
+body
+{
+background-color: hsl(112, 100%, 94%);
+background-size: cover;
+background-image: url("Bg.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center
+
+}
+.Pav
+{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+  }
+
+
+
+
+
+
